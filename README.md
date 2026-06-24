@@ -21,7 +21,7 @@ This repository documents my journey from cybersecurity student to industry prof
 - Develop a professional portfolio
 - Improve networking knowledge
 - Gain hands-on experience with security tools
-- Prepare for an entry-level cybersecurity role before graduation
+- Prepare for an entry-level cybersecurity role
 
 ## Progress Log
 
