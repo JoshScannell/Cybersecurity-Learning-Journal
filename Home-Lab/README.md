@@ -32,3 +32,15 @@ Learning points:
 After Windows finished installing, I accidentally booted from the ISO again and started the installation process a second time.
 
 This helped me understand how computers decide whether to boot from installation media or the installed operating system.
+
+### Lesson 2: DHCP, DNS and Gateways
+
+Using Kali Linux, I identified:
+
+- IP Address: 10.0.2.15
+- Default Gateway: 10.0.2.2
+- DNS Server: 10.0.2.3
+
+I learned that DHCP automatically provided these settings to the machine.
+
+I also learned that DNS converts names such as google.com into IP addresses, allowing devices to communicate across the network.
